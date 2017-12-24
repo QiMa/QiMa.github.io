@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 喜欢是一种波澜壮阔的感觉</title>
+    <link>https://luckyqm.com/post/</link>
+    <description>Recent content in Posts on 喜欢是一种波澜壮阔的感觉</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2016 马骐</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>最近文章</title>
+      <link>https://luckyqm.com/post/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luckyqm.com/post/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
