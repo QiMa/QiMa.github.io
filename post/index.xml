@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 喜欢是一种波澜壮阔的感觉</title>
-    <link>https://luckyqm.com/post/</link>
+    <link>http://luckyqm.com/post/</link>
     <description>Recent content in Posts on 喜欢是一种波澜壮阔的感觉</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>最近文章</title>
-      <link>https://luckyqm.com/post/posts/</link>
+      <link>http://luckyqm.com/post/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://luckyqm.com/post/posts/</guid>
+      <guid>http://luckyqm.com/post/posts/</guid>
       <description></description>
     </item>
     
