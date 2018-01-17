@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>友情链接 on 人生是体验喜欢的历程</title>
+    <link>/links/</link>
+    <description>最近内容 in 友情链接 on 人生是体验喜欢的历程</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2018 马骐</copyright>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/links/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
