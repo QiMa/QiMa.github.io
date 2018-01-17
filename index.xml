@@ -1,67 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>喜欢是一种波澜壮阔的感觉 on 喜欢是一种波澜壮阔的感觉</title>
-    <link>http://luckyqm.com/</link>
-    <description>Recent content in 喜欢是一种波澜壮阔的感觉 on 喜欢是一种波澜壮阔的感觉</description>
+    <title>人生是体验喜欢的历程 on 人生是体验喜欢的历程</title>
+    <link>/</link>
+    <description>最近内容 in 人生是体验喜欢的历程 on 人生是体验喜欢的历程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>&amp;copy; 2016 马骐</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 马骐</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>最近文章</title>
-      <link>http://luckyqm.com/post/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>人生不可以重来，Git可以</title>
+      <link>/talk/git-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://luckyqm.com/post/posts/</guid>
+      <guid>/talk/git-talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>运七棋牌</title>
-      <link>http://luckyqm.com/project/luckychess/</link>
+      <link>/project/luckychess/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/project/luckychess/</guid>
+      <guid>/project/luckychess/</guid>
       <description>&lt;p&gt;多人对战的小游戏&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Microsoft.NET Micro Framework 嵌入式编程</title>
-      <link>http://luckyqm.com/publication/microframework/</link>
-      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <title>开始</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://luckyqm.com/publication/microframework/</guid>
+      <guid>/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft.NET Micro Framework 嵌入式编程</title>
+      <link>/publication/microframework/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/microframework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>腾讯QQ</title>
-      <link>http://luckyqm.com/project/windowsqq/</link>
+      <link>/project/windowsqq/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/project/windowsqq/</guid>
+      <guid>/project/windowsqq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>酷狗音乐</title>
-      <link>http://luckyqm.com/project/kugoumusic/</link>
+      <title>酷狗音乐WindowsPhone版</title>
+      <link>/project/kugomusicwp/</link>
       <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/project/kugoumusic/</guid>
+      <guid>/project/kugomusicwp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Mobile平台应用与开发</title>
-      <link>http://luckyqm.com/publication/windowsmobile/</link>
+      <link>/publication/windows-mobile/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/publication/windowsmobile/</guid>
+      <guid>/publication/windows-mobile/</guid>
       <description></description>
     </item>
     

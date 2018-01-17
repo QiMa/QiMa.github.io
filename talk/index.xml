@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最近 &amp; 未来的演讲 Talks on 人生是体验喜欢的历程</title>
+    <link>/talk/</link>
+    <description>最近内容 in 最近 &amp; 未来的演讲 Talks on 人生是体验喜欢的历程</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2018 马骐</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>人生不可以重来，Git可以</title>
+      <link>/talk/git-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/git-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on 喜欢是一种波澜壮阔的感觉</title>
-    <link>http://luckyqm.com/publication/</link>
-    <description>Recent content in Publications on 喜欢是一种波澜壮阔的感觉</description>
+    <title>Publications on 人生是体验喜欢的历程</title>
+    <link>/publication/</link>
+    <description>最近内容 in Publications on 人生是体验喜欢的历程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>&amp;copy; 2016 马骐</copyright>
-    <lastBuildDate>Fri, 23 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 马骐</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Microsoft.NET Micro Framework 嵌入式编程</title>
-      <link>http://luckyqm.com/publication/microframework/</link>
-      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <link>/publication/microframework/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/publication/microframework/</guid>
+      <guid>/publication/microframework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Mobile平台应用与开发</title>
-      <link>http://luckyqm.com/publication/windowsmobile/</link>
+      <link>/publication/windows-mobile/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://luckyqm.com/publication/windowsmobile/</guid>
+      <guid>/publication/windows-mobile/</guid>
       <description></description>
     </item>
     
