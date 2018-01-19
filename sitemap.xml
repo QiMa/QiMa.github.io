@@ -142,7 +142,27 @@
     
     <url>
     
+      <loc>/tags/blog/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/post/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -191,7 +211,7 @@
     
     <url>
     
-      <loc>/tags/%E5%8D%9A%E5%AE%A2blog/</loc>
+      <loc>/tags/%E5%8D%9A%E5%AE%A2/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
